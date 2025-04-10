@@ -13,6 +13,10 @@ Keeper App is a lightweight note-taking application that allows users to create,
 -   **Update Notes:** Edit existing notes to modify their content.
 -   **Simple Interface:** Clean and user-friendly design for a seamless experience.
 
+## Hosted Link
+
+You can view the live application here: [https://keeper-app-fc.netlify.app/](https://keeper-app-fc.netlify.app/)
+
 ## Installation and Usage (CodeSandbox)
 
 This project was built and is primarily hosted in CodeSandbox. To experience the app:
@@ -38,7 +42,3 @@ Contributions are welcome! If you'd like to contribute to this project, please:
 1.  Fork the repository.
 2.  Create a new branch for your feature or bug fix.
 3.  Submit a pull request with a clear description of your changes.
-
-
-
-
