@@ -13,6 +13,12 @@ Keeper App is a lightweight note-taking application that allows users to create,
 -   **Update Notes:** Edit existing notes to modify their content.
 -   **Simple Interface:** Clean and user-friendly design for a seamless experience.
 
+## Technologies Used
+
+-   **React:** JavaScript library for building user interfaces.
+
+![Tech Stack](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ## Hosted Link
 
 You can view the live application here: [https://keeper-app-fc.netlify.app/](https://keeper-app-fc.netlify.app/)
